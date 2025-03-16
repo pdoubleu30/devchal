@@ -1,0 +1,72 @@
+* {
+    box-sizing: border-box;
+}
+
+.whole {
+    font-family: "Inter", sans-serif;
+}
+  
+h1, .browse {
+    text-align: center;
+}
+
+.browse {
+    padding-bottom: 40px
+}
+h1 {
+    margin-bottom: -5px;
+    font-weight: 600;
+    font-size: 2.25rem;
+    padding-top: 40px;
+}
+
+h2 {
+    font-weight: 600;
+    font-size: 1.5rem;
+    margin-bottom: 35px;
+}
+
+body {
+    font-weight: 400;
+    font-size: 1rem;
+}
+
+.background {
+    background-color:#D2D5DA1f;
+    padding-top: 35px;
+    
+}
+
+
+.tracking, .returns {
+    text-align: left;
+    padding-left: 330px;
+    width: 4000px;
+
+}
+
+li {
+    margin-left: -25px;
+    margin-bottom: 10px
+}
+
+.track2 {
+    margin-bottom: 35px
+}
+
+.encounter {
+    margin: 35px 0;
+}
+
+.lastline {
+    padding-bottom: 50px;
+    margin-top: 30px;
+}
+
+.return p {
+    padding-top: 20px;
+}
+
+a {
+    color: #4E80EE;
+}
